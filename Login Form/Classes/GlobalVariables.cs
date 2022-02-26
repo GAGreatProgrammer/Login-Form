@@ -26,7 +26,7 @@ namespace Login_Form.Classes
 
 
 
-        //RecoverPassword
+        //Recover Password
         public static string recover_UserName { get; set; }
         public static string recover_Password { get; set; }
         public static string recover_Email { get; set; }
