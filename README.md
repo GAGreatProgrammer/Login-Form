@@ -12,7 +12,7 @@ The Login Form allows users to login to the application using a username and pas
 ## System Description
 ---
 
-![wewe](https://raw.githubusercontent.com/GAGreatProgrammer/Login-Form/master/Login%20Form/Assets/Login.PNG)
+![Login Form](https://raw.githubusercontent.com/GAGreatProgrammer/Login-Form/master/Login%20Form/Assets/Login.PNG)
 
 The login form is an authorization template that allows users to log in to the system. The template consists of a main form and a subform. The form allows you to register a new user, as well as reset the password of an existing user. Also, for security, the function of two-factor authentication is used.
 
